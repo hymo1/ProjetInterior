@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://6108fbbcf5c202ceac0c550f--stupefied-hugle-d67429.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/hymo1/ProjetInterior">
       Solution
     </a>
     <span> | </span>
@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub hymo1(https://{github.com/hymo1})
+- GitHub hymo1(https://github.com/hymo1)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
